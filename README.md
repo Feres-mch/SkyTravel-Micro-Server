@@ -50,6 +50,7 @@
 #####  &#8594; Once you finished these steps, Start your application, try your Rest APIs on Postman & then check your H2 Database to be sure that your first mission is accomplished :muscle:
 
 **** 
+
 #### Second, after creating the microservices, let's start to deploy our Microservices on the famous Eureka-Netflix server
 
  #####  I. Create a EurekaServer SpringBoot project with ONLY Eureka Server as dependency 
@@ -62,13 +63,36 @@
 
 #####   IV. Add @EnableDiscoveryClient to the Microservices' application classes 
 
-#####   VI. Add Eureka to your Microservices properties ( this is an example that you can follow ) :
+#####   V. Add Eureka to your Microservices properties ( this is an example that you can follow ) :
 
 ![eurekmicro](https://user-images.githubusercontent.com/57329406/138804250-d660c4b9-caa6-45f3-943a-b3981b034595.png)
 
 #####  &#8594; Once you finished these steps, Start your Eureka server AND THEN your application, open [Eureka](http://localhost:8761/)  to be sure that your second mission is accomplished and your Microservices are deployed on Eureka :muscle: :muscle:
 
 *** 
+
+#### Now, Let's try these same steps but with a Node js, Express js and MongoDB Microservice :point_right: 
+
+ #####  I. But first, let's understand a little about how this process is gonna work : 
+
+![eureka-js-client (1)](https://user-images.githubusercontent.com/57329406/138805069-1669afd9-0f64-4a1a-960d-ae7c9b80a546.jpg)
+
+ #####  II. Okay, let's suppose that you already prepared you Node js application ( Models &#8594; server &#8594; database &#8594; routes ). If not, watch this simple [demo](https://www.youtube.com/watch?v=W1Kttu53qTg) of how you can create one.
+
+ #####  III. Add Eureka Client to a Node application ( this is an example that you can follow ) : 
+
+![eureka node](https://user-images.githubusercontent.com/57329406/138805830-9bef7bc1-bbce-423d-bd18-5340d9c3e0ce.png)
+
+#####   IV. Register with Eureka in you server.js file :
+
+![register](https://user-images.githubusercontent.com/57329406/138805978-c6749256-ecea-4c5f-972c-82141e4009ee.png)
+
+#####  &#8594; Once you finished these steps, Start your node application ( it will start Eureka with it ), open [Eureka](http://localhost:8761/)  to be sure that your mission is accomplished and your Microservice is deployed on Eureka :muscle: :muscle: :muscle:
+
+
+
+
+
 
 
 
