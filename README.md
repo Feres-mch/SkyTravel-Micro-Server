@@ -16,7 +16,7 @@
 
 **** 
 
-#### First of all, let's start with creating the SpringBoot/H2 microservice 
+#### First of all, let's start with creating the SpringBoot/H2 Microservice 
 
  #####  I. Create a SpringBoot project adding these 7 dependencies : 
            1.  Spring Boot Actuator
