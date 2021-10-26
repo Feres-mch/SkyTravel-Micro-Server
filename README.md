@@ -47,4 +47,4 @@
 
 ![app prop](https://user-images.githubusercontent.com/57329406/138799659-c2752080-4c8f-4cba-9a7f-da16664944ba.png)
 
-#####  &#8594; Once you finished these steps, Start your application, try your Rest APIs on Postman & then check your H2 Database to be sure that your first mission is accomplished :muscle:
+####  &#8594; Once you finished these steps, Start your application, try your Rest APIs on Postman & then check your H2 Database to be sure that your first mission is accomplished :muscle:
