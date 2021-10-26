@@ -26,5 +26,7 @@
            6.  Eureka Discovery Client*
            7.  Config Client
 
-* Create you Entity file ( that is an example that you can follow ) : 
+* Create you Entity file ( that is an example that you can follow ) : DON'T FORGET TO GENERATE YOUR GETERS & SETTERS
+
+![entites](https://user-images.githubusercontent.com/57329406/138796308-3ba8d323-2ca8-435a-95ca-2a01e99c4abd.png) 
 
