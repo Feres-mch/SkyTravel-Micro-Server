@@ -47,7 +47,30 @@
 
 ![app prop](https://user-images.githubusercontent.com/57329406/138799659-c2752080-4c8f-4cba-9a7f-da16664944ba.png)
 
-####  &#8594; Once you finished these steps, Start your application, try your Rest APIs on Postman & then check your H2 Database to be sure that your first mission is accomplished :muscle:
+#####  &#8594; Once you finished these steps, Start your application, try your Rest APIs on Postman & then check your H2 Database to be sure that your first mission is accomplished :muscle:
 
 **** 
+#### Second, after creating the microservices, let's start to deploy our Microservices on the famous Eureka-Netflix server
+
+ #####  I. Create a EurekaServer SpringBoot project with ONLY Eureka Server as dependency 
+
+ #####  II. Add @EnableEurekaServer to you application class
+
+ #####  III. Configure your application properties ( this is an example that you can follow ) : 
+
+ ![eurekaprop](https://user-images.githubusercontent.com/57329406/138803790-823d08c7-b530-4edf-8c6e-5109f5ef2609.png)
+
+#####   IV. Add @EnableDiscoveryClient to the Microservices' application classes 
+
+#####   VI. Add Eureka to your Microservices properties ( this is an example that you can follow ) :
+
+![eurekmicro](https://user-images.githubusercontent.com/57329406/138804250-d660c4b9-caa6-45f3-943a-b3981b034595.png)
+
+#####  &#8594; Once you finished these steps, Start your Eureka server AND THEN your application, open [Eureka](http://localhost:8761/)  to be sure that your second mission is accomplished and your Microservices are deployed on Eureka :muscle: :muscle:
+
+*** 
+
+
+
+
 
