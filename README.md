@@ -89,6 +89,10 @@
 
 #####  &#8594; Once you finished these steps, Start your node application ( it will start Eureka with it ), open [Eureka](http://localhost:8761/)  to be sure that your mission is accomplished and your Microservice is deployed on Eureka :muscle: :muscle: :muscle:
 
+***
+
+#### NEXT STEPS ( ZUUL, SPRINGCLOUD & DOCKER ) ARE COMING SOON WITH A GREAT EXPLANATION, IT'S JUST A MATTER OF TIME. SEE YOU SOON DEVELOPERS ######:eyes:
+
 
 
 
