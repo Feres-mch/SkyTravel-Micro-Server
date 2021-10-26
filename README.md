@@ -27,19 +27,19 @@
            6.  Eureka Discovery Client
            7.  Config Client
 
-#####   II. Create you Entity file ( this is an example that you can follow ) : DON'T FORGET TO GENERATE THE ANNOTATIONS & YOUR GETTERS/SETTERS 
+#####   II. Create you Entity file ( this is an example that you can follow ) : DON'T FORGET TO ADD THE ANNOTATIONS & GENERATE YOUR GETTERS/SETTERS 
 
 ![entites](https://user-images.githubusercontent.com/57329406/138796308-3ba8d323-2ca8-435a-95ca-2a01e99c4abd.png) 
 
-#####   III. Create your Repository INTERFACE ( this is an example that you can follow ) : DON'T FORGET TO GENERATE THE @Repository 
+#####   III. Create your Repository INTERFACE ( this is an example that you can follow ) : DON'T FORGET TO ADD THE @Repository 
 
 ![Repos](https://user-images.githubusercontent.com/57329406/138797224-323af116-8cfc-4381-ab73-87eca8b04127.png)
 
-#####   IV. Create your SERVICES CLASS TO WRITE YOUR CRUD ( this is an example of simple CRUD creation that you can follow ) : DON'T FORGET TO GENERATE THE @Service 
+#####   IV. Create your SERVICES CLASS TO WRITE YOUR CRUD ( this is an example of simple CRUD creation that you can follow ) : DON'T FORGET TO ADD THE @Service 
 
 ![crud](https://user-images.githubusercontent.com/57329406/138797929-abb56301-189f-4785-8ca0-3b3d9c5800fb.png)
 
-#####   V. Create your RestApi Class to write your Mappings ( this is an example that you can follow ) : DON'T FORGET TO GENERATE THE ANNOTATIONS
+#####   V. Create your RestApi Class to write your Mappings ( this is an example that you can follow ) : DON'T FORGET TO ADD THE ANNOTATIONS
 
 ![REST](https://user-images.githubusercontent.com/57329406/138798966-66edbc37-ac5c-420e-a8fc-d5d0b23d50cb.png)
 
