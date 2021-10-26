@@ -1,4 +1,4 @@
-### Micro server application for a travel agency management with SpringBoot, Node js, MongoDB, MySQL, H2, SpringCloud, Eureka-Netflix and Zuul :star2: :star2: :star2: :star2: :star2: 
+### Micro services application for a travel agency management with SpringBoot, Node js, MongoDB, MySQL, H2, SpringCloud, Eureka-Netflix, Zuul & Docker :star2: :star2: :star2: :star2: :star2: 
      
 ----
 ### We Will make it together step by step : 
